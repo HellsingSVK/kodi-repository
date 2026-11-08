@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.vasemeno" name="Váš Repozitár" version="1.0.0" provider-name="VaseMeno">
-    <extension point="xbmc.addon.repository" name="Váš Repozitár">
+<addon id="repository.HellsingSVK" name="
+kodi-repository" version="1.0.0" provider-name="HellsingSVK">
+    <extension point="xbmc.addon.repository" name="kodi-repository">
         <info compressed="false">https://vasemeno.github.io/kodi-repository/addons.xml</info>
         <checksum>https://vasemeno.github.io/kodi-repository/addons.xml.md5</checksum>
         <datadir zip="true">https://vasemeno.github.io/kodi-repository/</datadir>
