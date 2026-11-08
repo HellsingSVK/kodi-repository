@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.vasemeno" name="Váš Repozitár" version="1.0.0" provider-name="VaseMeno">
+    <extension point="xbmc.addon.repository" name="Váš Repozitár">
+        <info compressed="false">https://vasemeno.github.io/kodi-repository/addons.xml</info>
+        <checksum>https://vasemeno.github.io/kodi-repository/addons.xml.md5</checksum>
+        <datadir zip="true">https://vasemeno.github.io/kodi-repository/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="sk">Oficiálny repozitár doplnkov</summary>
+        <platform>all</platform>
+    </extension>
+</addon>
