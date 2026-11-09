@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.hellsingsvk" name="HellsingSVK Repozitár" version="1.0.0" provider-name="HellsingSVK">
+    <extension point="xbmc.addon.repository" name="HellsingSVK Repozitár">
+        <info compressed="false">https://hellsingsvk.github.io/kodi-repository/addons.xml</info>
+        <checksum>https://hellsingsvk.github.io/kodi-repository/addons.xml.md5</checksum>
+        <datadir zip="true">https://hellsingsvk.github.io/kodi-repository/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="sk">Repozitár pre Webshare Player</summary>
+        <platform>all</platform>
+    </extension>
+</addon>
